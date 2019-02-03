@@ -1,0 +1,14 @@
+#buttonSuccess {
+    width: 40px;
+}
+
+#buttonSuccess:before {
+    content: '';
+    width: inherit;
+    height: 100%;
+    position: absolute;
+    background: url(../svg/correct.svg) no-repeat;
+    background-size: 16px;
+    top: 10px;
+    left: 12px;
+}
