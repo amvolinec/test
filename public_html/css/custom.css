@@ -12,3 +12,37 @@
     top: 10px;
     left: 12px;
 }
+
+.hidden, #emptyInner {
+    display: none;
+}
+
+.city-inner {
+    padding: 16px;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.test-temp {
+    border: 1px solid #6cb2eb;
+    border-radius: 8px;
+    padding: 4px 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    background: #6cb2eb;
+    color: #fafafa;
+}
+
+.city-clouds {
+    color: #6cb2eb;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.city-info {
+    display: block;
+    margin-top: 8px;
+}
