@@ -31,7 +31,6 @@
 
     // Validate form on Enter key pressed
     $('#testCity').keypress(function (e) {
-        e.preventDefault();
         if (e.which == 13) {
             $(".btn-success").click();
             return false;

@@ -8,14 +8,14 @@
                 <div class="form-group">
                     <label for="testApi">API key:</label>
                     <input type="text" name="apikey" class="form-control" id="testApi" placeholder="API key"
-                           value="e6b56f52a5dc6a80de1c43b5b957b5b5">
+                           value="">
                 </div>
                 <div class="form-group">
                     <label for="testCity">City:</label>
                     <div class="input-group mb-3">
 
                         <input type="text" name="city" class="form-control" id="testCity" placeholder="City"
-                               value="Vilnius">
+                               value="">
                         <div class="input-group-append">
                             <button class="btn btn-success" type="button" id="buttonSuccess"><span aria-hidden="true">&nbsp;</span>
                             </button>
